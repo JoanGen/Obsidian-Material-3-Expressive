@@ -11,9 +11,10 @@ Designed to offer a fluid experience with rounded shapes, expressive typography,
 ![](assets/Material-3-Expressive-BEB5A21B2D3BE292E1AE0EAEDDFE8E38.png)
 
 - **Adaptive Dark Mode:** An elegant dark design that adapts primarily to your chosen accent color, giving you a wide variety of personalized color choices.
-- **Grouped Lists:** Native Android 16 style for settings and navigation menus.
+
 ![](assets/Material-3-Expressive-FE55B800077D70302BA8E7EA8226D0FB.png)
 
+- **Grouped Lists:** Native Android 16 style for settings and navigation menus.
 - **Desktop Version in Progress:** We are actively working to make the desktop version as polished and native-feeling as the mobile version!
 ![](assets/Material-3-Expressive-C46FE03DE6C1498A5603E999E270D22F.png)
 
@@ -43,6 +44,13 @@ This theme includes native design support for community plugins perfectly integr
 If you appreciate the attention to detail in this implementation of Material 3, consider supporting the project! Your donations help keep the theme updated and free.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/joangen)
+
+
+## ⚙️ Development Note: Version Status v1.0.0
+
+[!IMPORTANT]
+
+Material-3-Expressive is currently undergoing active optimization. While the Android 16-inspired visual foundation is mostly functional and stable, the project is under continuous refinement.
 
 ## ⚖️ Disclaimer & License
 
