@@ -1,6 +1,6 @@
 # Material 3 Expressive
 
-![Hero Image](https://via.placeholder.com/1200x600.png?text=Material+3+Expressive+Hero)
+![assets/Material 3 Expressive-06E4C5568EB40B24643BC469BC3738A7.png]
 
 An Obsidian theme based on **Material You** and **Android 16** guidelines.
 Designed to offer a fluid experience with rounded shapes, expressive typography, and grouped lists.
