@@ -8,15 +8,14 @@ Designed to offer a fluid experience with rounded shapes, expressive typography,
 ## ✨ Features
 
 - **Dynamic Colors:** Generates complete tonal palettes (surfaces, containers, accents) from a single base hue to fully align with Material You.
-![](assets/Material-3-Expressive-BEB5A21B2D3BE292E1AE0EAEDDFE8E38.png)
+  ![](assets/Material-3-Expressive-BEB5A21B2D3BE292E1AE0EAEDDFE8E38.png)
 
 - **Adaptive Dark Mode:** An elegant dark design that adapts primarily to your chosen accent color, giving you a wide variety of personalized color choices.
-
-![](assets/Material-3-Expressive-FE55B800077D70302BA8E7EA8226D0FB.png)
+  ![](assets/Material-3-Expressive-FE55B800077D70302BA8E7EA8226D0FB.png)
 
 - **Grouped Lists:** Native Android 16 style for settings and navigation menus.
 - **Desktop Version in Progress:** We are actively working to make the desktop version as polished and native-feeling as the mobile version!
-![](assets/Material-3-Expressive-C46FE03DE6C1498A5603E999E270D22F.png)
+  ![](assets/Material-3-Expressive-C46FE03DE6C1498A5603E999E270D22F.png)
 
 
 
