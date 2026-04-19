@@ -47,9 +47,10 @@ If you appreciate the attention to detail in this implementation of Material 3, 
 
 ## ⚙️ Development Note: Version Status v1.0.0
 
-[!IMPORTANT]
-
-Material-3-Expressive is currently undergoing active optimization. While the Android 16-inspired visual foundation is mostly functional and stable, the project is under continuous refinement.
+> [!IMPORTANT]
+> **Development Note: Version Status v1.0 (Alpha)**
+>
+> Material-3-Expressive is currently in an active optimization phase. Although the Android 16-inspired visual base is mostly functional and stable, the project is under continuous refinement.
 
 ## ⚖️ Disclaimer & License
 
