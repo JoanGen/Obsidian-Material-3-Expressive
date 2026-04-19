@@ -45,10 +45,10 @@ If you appreciate the attention to detail in this implementation of Material 3, 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/joangen)
 
 
-## ⚙️ Development Note: Version Status v1.0.0
+## ⚙️ Development Note
 
 > [!IMPORTANT]
-> **Development Note: Version Status v1.0 (Alpha)**
+> **Version Status v1.0.0**
 >
 > Material-3-Expressive is currently in an active optimization phase. Although the Android 16-inspired visual base is mostly functional and stable, the project is under continuous refinement.
 
