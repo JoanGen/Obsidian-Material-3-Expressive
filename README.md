@@ -38,9 +38,10 @@ This theme includes native design support for community plugins perfectly integr
 - **[Notebook Navigator](https://github.com/johansan/notebook-navigator)**
 - **[Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin)**
 
-## ☕ Support the Project
+## 🐹 Fuel the Hamster 
 
-If you appreciate the attention to detail in this implementation of Material 3, consider supporting the project! Your donations help keep the theme updated and free.
+**Love the theme?** You can support its development by buying me a **sunflower seed** 🌻. Your appreciation allows me to dedicate more time to polishing details and adding features.
+
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/joangen)
 
