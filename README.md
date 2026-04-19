@@ -9,6 +9,8 @@ Designed to offer a fluid experience with rounded shapes, expressive typography,
 
 - **Dynamic Colors:** Generates complete tonal palettes (surfaces, containers, accents) from a single base hue to fully align with Material You.
 - **Adaptive Dark Mode:** An elegant dark design that adapts primarily to your chosen accent color, giving you a wide variety of personalized color choices.
+![](assets/Material-3-Expressive-FE55B800077D70302BA8E7EA8226D0FB.png).
+
 - **Desktop Version in Progress:** We are actively working to make the desktop version as polished and native-feeling as the mobile version!
 - **Grouped Lists:** Native Android 16 style for settings and navigation menus.
 
