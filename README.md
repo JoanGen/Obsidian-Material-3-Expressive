@@ -35,7 +35,7 @@ Designed to offer a fluid experience with rounded shapes, expressive typography,
 
 This theme includes native design support for community plugins perfectly integrated with the Material 3 aesthetic:
 
-- **[Notebook Navigator](https://github.com/Canna71/obsidian-notebook-navigator)**
+- **[Notebook Navigator][(https://github.com/johansan/notebook-navigator)**
 - **[Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin)**
 
 ## ☕ Support the Project
