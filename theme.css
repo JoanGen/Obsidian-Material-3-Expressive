@@ -2024,10 +2024,10 @@ body:is(.theme-dark, .theme-light)
 
 body:is(.theme-dark, .theme-light)
   .mod-community-modal
-  .setting-item.mod-toggle,
+  .setting-item.mod-toggle:not(:has(+ .setting-item)),
 body:is(.theme-dark, .theme-light)
   .community-modal-controls
-  .setting-item.mod-toggle {
+  .setting-item.mod-toggle:not(:has(+ .setting-item)) {
   border-bottom-left-radius: var(--md-sys-shape-large) !important;
   border-bottom-right-radius: var(--md-sys-shape-large) !important;
 }
