@@ -472,7 +472,7 @@ body:is(.theme-dark, .theme-light).is-mobile .setting-item-heading {
 body .is-phone .modal.mod-settings .vertical-tab-nav-item-chevron,
 body .is-phone .modal.mod-settings .vertical-tab-nav-item-title,
 body:is(.theme-dark, .theme-light).is-mobile .vertical-tab-nav-item-title {
-  border-bottom: none !important;
+  border-bottom: none;
 }
 body:is(.theme-dark, .theme-light).is-mobile .setting-group-search {
   background-color: var(--surface);
@@ -533,7 +533,7 @@ body:is(.theme-dark, .theme-light).is-mobile .vertical-tab-nav-item-chevron {
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .vertical-tab-nav-item.is-active {
-  background-color: var(--surface) !important;
+  background-color: var(--surface);
   color: var(--md-active-text);
 }
 body:is(.theme-dark, .theme-light).is-mobile
@@ -1024,36 +1024,35 @@ body:is(.theme-dark, .theme-light).is-mobile .graph-controls .clickable-icon {
 }
 
 body:is(.theme-dark, .theme-light) input[type="color"] {
-  width: 2rem !important;
-  height: 2rem !important;
-  min-width: 2rem !important;
-  min-height: 2rem !important;
-  border-radius: 50% !important;
-  overflow: hidden !important;
-  padding: 0 !important;
-  border: none !important;
-  background-color: transparent !important;
-  box-shadow: none !important;
-  cursor: pointer !important;
-  -webkit-appearance: none !important;
-  appearance: none !important;
-  clip-path: circle(50%) !important;
+  width: 2rem;
+  height: 2rem;
+  min-width: 2rem;
+  min-height: 2rem;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  box-shadow: none;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
 }
 body:is(.theme-dark, .theme-light) input[type="color"]::-webkit-color-swatch {
-  border-radius: 50% !important;
-  border: none !important;
-  padding: 0 !important;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
 }
 body:is(.theme-dark, .theme-light)
   input[type="color"]::-webkit-color-swatch-wrapper {
-  padding: 0 !important;
-  margin: 0 !important;
-  border-radius: 50% !important;
+  padding: 0;
+  margin: 0;
+  border-radius: 50%;
 }
 body:is(.theme-dark, .theme-light) input[type="color"]::-moz-color-swatch {
-  border-radius: 50% !important;
-  border: none !important;
-  padding: 0 !important;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .modal-header {
@@ -1149,12 +1148,12 @@ body .is-mobile .notebook-navigator-mobile .nn-mobile-toolbar-right button svg {
   height: 24px;
   stroke-width: 1.5;
   color: var(--on-surface-variant);
-  stroke: currentColor !important;
+  stroke: currentColor;
 }
 
 .is-mobile.nn-mobile-toolbar-button-active svg {
   stroke-width: 2;
-  stroke: currentColor !important;
+  stroke: currentColor;
 }
 
 body
@@ -1219,8 +1218,8 @@ body .is-mobile.notebook-navigator-mobile .nn-shortcuts-resize-handle::before {
 }
 
 .nn-nav-spacer--with-separator::after {
-  background: var(--surface-variant) !important;
-  opacity: 1 !important;
+  background: var(--surface-variant);
+  opacity: 1;
 }
 
 body
@@ -1521,42 +1520,26 @@ body .is-phone .mod-raised {
 body:is(.theme-dark, .theme-light).is-mobile .vertical-tab-nav-item:active,
 body:is(.theme-dark, .theme-light).is-mobile .vertical-tab-nav-item.mobile-tap,
 body:is(.theme-dark, .theme-light).is-mobile .menu-item:active {
-  background-color: color-mix(
-    in srgb,
-    var(--text-normal) 15%,
-    var(--surface)
-  ) !important;
+  background-color: color-mix(in srgb, var(--text-normal) 15%, var(--surface));
   transition: background-color 0s;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile
   .setting-item-control
   button:active {
-  background-color: color-mix(
-    in srgb,
-    var(--text-normal) 15%,
-    transparent
-  ) !important;
+  background-color: color-mix(in srgb, var(--text-normal) 15%, transparent);
   transition: background-color 0s;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .nn-navitem:active,
 body:is(.theme-dark, .theme-light).is-mobile .nn-navitem.mobile-tap {
-  background-color: color-mix(
-    in srgb,
-    var(--text-normal) 15%,
-    transparent
-  ) !important;
+  background-color: color-mix(in srgb, var(--text-normal) 15%, transparent);
   transition: background-color 0s;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .nn-file:active,
 body:is(.theme-dark, .theme-light).is-mobile .nn-file.mobile-tap {
-  background-color: color-mix(
-    in srgb,
-    var(--text-normal) 15%,
-    transparent
-  ) !important;
+  background-color: color-mix(in srgb, var(--text-normal) 15%, transparent);
   transition: background-color 0s;
 }
 
@@ -1618,8 +1601,8 @@ body .is-mobile .graph-controls {
 body:is(.theme-dark, .theme-light).is-phone .workspace-drawer-tab-options-list,
 body .is-phone .workspace-drawer-tab-options-list,
 .is-phone .workspace-drawer-tab-options-list {
-  box-shadow: none !important;
-  -webkit-box-shadow: none !important;
+  box-shadow: none;
+  -webkit-box-shadow: none;
 }
 
 body
@@ -1659,19 +1642,19 @@ body
   button
   span
   svg {
-  color: var(--on-surface-variant) !important;
-  stroke: var(--on-surface-variant) !important;
+  color: var(--on-surface-variant);
+  stroke: var(--on-surface-variant);
 }
 
 body .is-mobile.notebook-navigator-mobile .nn-back-button svg {
   width: 20px;
   height: 20px;
-  stroke: var(--on-surface-variant) !important;
-  color: var(--on-surface-variant) !important;
+  stroke: var(--on-surface-variant);
+  color: var(--on-surface-variant);
 }
 
 body .is-mobile.notebook-navigator-mobile .nn-list-pane-panel span {
-  color: var(--on-surface-variant) !important;
+  color: var(--on-surface-variant);
 }
 
 body .is-mobile .mobile-navbar,
@@ -1837,7 +1820,7 @@ body:is(.theme-dark, .theme-light).is-mobile
 body:is(.theme-dark, .theme-light).is-mobile
   .workspace-drawer-tab-options-list
   .workspace-tab-header.mobile-tap {
-  background-color: transparent !important;
+  background-color: transparent;
   transition: background-color 0s;
 }
 body:is(.theme-dark, .theme-light).is-mobile
@@ -1910,7 +1893,7 @@ body:is(.theme-dark, .theme-light).is-mobile
   .mobile-navbar-action.mobile-navbar-action-tabs
   > div
   > div.mobile-tap {
-  opacity: var(--icon-opacity-hover, 0.5) !important;
+  opacity: var(--icon-opacity-hover, 0.5);
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .mobile-toolbar-option:active svg,
@@ -1944,7 +1927,7 @@ body:is(.theme-dark, .theme-light).is-mobile
   .nn-mobile-toolbar-button.nn-mobile-toolbar-button-active
   svg {
   stroke-width: 2;
-  stroke: currentColor !important;
+  stroke: currentColor;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .prompt {
@@ -1978,12 +1961,12 @@ button.nn-mobile-toolbar-button {
   height: 24px;
   stroke-width: 1.5;
   color: var(--on-surface-variant);
-  stroke: currentColor !important;
+  stroke: currentColor;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile .nn-path-segment {
-  color: var(--on-surface-variant) !important;
-  text-decoration: none !important;
+  color: var(--on-surface-variant);
+  text-decoration: none;
 }
 
 body:is(.theme-dark, .theme-light).is-mobile
@@ -2004,8 +1987,8 @@ body:is(.theme-dark, .theme-light).is-mobile
   .nn-pane-header-simple
   .clickable-icon
   * {
-  color: var(--on-surface-variant) !important;
-  stroke: var(--on-surface-variant) !important;
+  color: var(--on-surface-variant);
+  stroke: var(--on-surface-variant);
 }
 
 body:is(.theme-dark, .theme-light)
@@ -2023,16 +2006,8 @@ body:is(.theme-dark, .theme-light)
 }
 
 body:is(.theme-dark, .theme-light)
-  .mod-community-modal
-  .setting-item.mod-toggle:not(:has(+ .setting-item)),
-body:is(.theme-dark, .theme-light)
   .community-modal-controls
-  .setting-item.mod-toggle:not(:has(+ .setting-item)) {
-  border-bottom-left-radius: var(--md-sys-shape-large) !important;
-  border-bottom-right-radius: var(--md-sys-shape-large) !important;
-}
-
-body:is(.theme-dark, .theme-light) .setting-item:has(.mod-hotkey) {
-  border-bottom-left-radius: var(--md-sys-shape-large) !important;
-  border-bottom-right-radius: var(--md-sys-shape-large) !important;
+  .setting-item.mod-toggle:nth-last-child(2) {
+  border-bottom-left-radius: var(--md-sys-shape-large);
+  border-bottom-right-radius: var(--md-sys-shape-large);
 }
