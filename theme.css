@@ -1360,11 +1360,11 @@ body:is(.theme-dark, .theme-light).is-mobile .nav-action-button.mobile-tap {
 body .is-mobile.callout {
   border-radius: var(--md-sys-shape-medium);
   border: none;
-  background-color: rgba(var(--callout-color), 0.1);
+  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
 }
 body .is-mobile.callout-title,
 body .is-mobile .callout-icon {
-  color: rgb(var(--callout-color));
+  color: var(--callout-color);
 }
 
 body .is-mobile.markdown-rendered blockquote {
