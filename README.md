@@ -1,12 +1,9 @@
-
-
 ![](assets/Material-3-Expressive-06E4C5568EB40B24643BC469BC3738A7.png)
 
 Material 3 Expressive an Obsidian theme based on **Material You** and **Android 16** guidelines.
 Designed to offer a fluid experience with rounded shapes, expressive typography, and grouped lists.
 
 ## Features
-
 - **Dynamic Colors:** Generates complete tonal palettes (surfaces, containers, accents) from a single base hue to fully align with Material You.
   ![](assets/Material-3-Expressive-BEB5A21B2D3BE292E1AE0EAEDDFE8E38.png)
 
@@ -17,10 +14,7 @@ Designed to offer a fluid experience with rounded shapes, expressive typography,
 - **Desktop Version in Progress:** We are actively working to make the desktop version as polished and native-feeling as the mobile version!
   ![](assets/Material-3-Expressive-C46FE03DE6C1498A5603E999E270D22F.png)
 
-
-
 ## Installation
-
 ### Via Community Themes (Recommended)
 1. Open Obsidian > Settings > Appearance.
 2. Under "Themes", click "Manage".
@@ -39,7 +33,6 @@ This theme includes native design support for community plugins perfectly integr
 - **[Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin)**
 
 ## 🐹 Fuel the Hamster 
-
 **Love the theme?** You can support its development by buying me a **sunflower seed** 🌻. Your appreciation allows me to dedicate more time to polishing details and adding features.
 
 
@@ -47,14 +40,12 @@ This theme includes native design support for community plugins perfectly integr
 
 
 ## Development Note
-
 > [!IMPORTANT]
 > **Version Status v1.0.0**
 >
 > Material-3-Expressive is currently in an active optimization phase. Although the Android 16-inspired visual base is mostly functional and stable, the project is under continuous refinement.
 
 ## Disclaimer & License
-
 This is an independent project inspired by Google's Material Design guidelines and is not affiliated with or endorsed by Google LLC.
 
 MIT License © 2026 JoanGen
